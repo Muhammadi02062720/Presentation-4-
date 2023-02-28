@@ -27,6 +27,13 @@ store multiple collections of data.
 
 ![](/images/Screenshot_10.png)
 
-> ## What is Destructuring injs ?
+> ## What is Destructuring in object ?
+  
+  >The destructuring assignment syntax is a JavaScript expression that makes it 
+possible to unpack properties from object, into distinct variables
 
  ![](/images/Screenshot_12.png)
+
+> ## ## What is spread in object ?
+
+![](/images/Screenshot_11.png)
