@@ -26,3 +26,7 @@ store multiple collections of data.
 3. #### Object. values() 
 
 ![](/images/Screenshot_10.png)
+
+> ## What is Destructuring injs ?
+
+ ![](/images/Screenshot_12.png)
