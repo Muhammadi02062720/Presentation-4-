@@ -85,3 +85,33 @@ possible to unpack properties from object, into distinct variables
 3. get.Month() 
 
  ![](/images/Screenshot_20.png)
+
+4. getDate() 
+
+ ![](/images/Screenshot_21.png) 
+
+5. getDay() 
+
+ ![](/images/Screenshot_22.png) 
+
+6. getHours() 
+
+ ![](/images/Screenshot_23.png) 
+
+7. >getMinutes() 
+     >getMinutes() returns thr minute (0 to 59) of a date
+ 
+ ![](/images/Screenshot_24.png) 
+
+8. >setDAte() 
+    >setDate() set the days month of the date 
+
+ ![](/images/Screenshot_26.png)
+
+9. setMonth()
+
+ ![](/images/Screenshot_27.png) 
+
+10. setFullYear() 
+![](/images/Screenshot_28.png)
+      
