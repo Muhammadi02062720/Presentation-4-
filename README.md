@@ -13,6 +13,16 @@ store multiple collections of data.
 
 > ### Thre are three methods of object in js:
 
-1. Object.entries()
+1. #### Object.entries()
 
 ![](/images/Screenshot_8.png)
+
+
+2. #### Object. keys()
+
+![](/images/Screenshot_9.png)
+
+
+3. #### Object. values() 
+
+![](/images/Screenshot_10.png)
