@@ -62,4 +62,12 @@ possible to unpack properties from object, into distinct variables
 
   2. new Date(milliseconds): 
 
-   ![](/images/Screenshot_15.png)
+   ![](/images/Screenshot_15.png) 
+
+  3. new Date(date string).
+
+   ![](/images/Screenshot_16.png) 
+ 
+  4. new Date(year, month, day, hours, minutes, seconds, milliseconds)
+
+   ![](/images/Screenshot_17.png)
