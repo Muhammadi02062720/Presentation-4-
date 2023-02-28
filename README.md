@@ -70,4 +70,18 @@ possible to unpack properties from object, into distinct variables
  
   4. new Date(year, month, day, hours, minutes, seconds, milliseconds)
 
-   ![](/images/Screenshot_17.png)
+   ![](/images/Screenshot_17.png) 
+
+> ### DATA AND TIME
+
+1. now();
+  
+  ![](/images/Screenshot_18.png)
+
+2. getFullYear() 
+
+ ![](/images/Screenshot_19.png) 
+
+3. get.Month() 
+
+ ![](/images/Screenshot_20.png)
