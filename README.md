@@ -9,3 +9,10 @@ Everything is an object in JavaScript.
 store multiple collections of data.
 
 ![](/images/Screenshot_7.png)
+
+
+> ### Thre are three methods of object in js:
+
+1. Object.entries()
+
+![](/images/Screenshot_8.png)
