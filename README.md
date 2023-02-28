@@ -48,3 +48,18 @@ possible to unpack properties from object, into distinct variables
    2. Alone, thif refers to the global object.
    3. In a function this refers to the global object.
    4. In a function in strict mode, this is underfined.
+
+> ## Whhat is new DAte() in js ?
+
+ ![](/images/Screenshot_13.png) 
+
+> ##### Creating date object:
+ >There are four ways of creating date in js:
+
+  1. new Date(): creates a new date. 
+
+   ![](/images/Screenshot_14.png) 
+
+  2. new Date(milliseconds): 
+
+   ![](/images/Screenshot_15.png)
