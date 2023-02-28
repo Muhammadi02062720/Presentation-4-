@@ -37,3 +37,14 @@ possible to unpack properties from object, into distinct variables
 > ## ## What is spread in object ?
 
 ![](/images/Screenshot_11.png)
+
+> ## What is keyword "this" in js
+
+ >The ‘this’ keyword in Javascript is one among the most commonly misunderstood concepts because its behaviour differs based on how and where it was called.
+
+  > ##### The JavaScript “this” keyword refers to the object it belongs to, which can have a different value depending on where it is used.
+
+   1. In object method, this refers to the object.
+   2. Alone, thif refers to the global object.
+   3. In a function this refers to the global object.
+   4. In a function in strict mode, this is underfined.
